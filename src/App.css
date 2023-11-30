@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+h1 {
+  color:lightblue;
+}
+
+p {
+  color: skyblue;
+}
+
+h2 {
+  color:lightcyan;
+  font-style: italic;
+}
+ul {
+  color:lightcyan;
+  list-style-type: none;
+}
